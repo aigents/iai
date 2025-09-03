@@ -82,6 +82,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
 - LLM-enabled engineering
   - LLM-enabled test-driven software development
   - VLSI design with LLMs for code and test generation and code verification
+  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge    
 - Artificial General Intelligence (AGI) and Experientiall Learning (EL)
   - Neuro-symbolic RL for adaptive robotics
   - Decision support systems (DSS) for automatic process control systems (APCS)
