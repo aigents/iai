@@ -4,7 +4,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
 
 ## Blocks and Topics (21 lectures)
 - _General AI, interpretable AI collective AI - state of the art (1)_
-  - https://github.com/aigents/iai/docs/2025/blob/main/agi-iai-cai-etc-2025.pdf
+  - https://github.com/aigents/iai/blob/main/docs/2025/agi-iai-cai-etc-2025.pdf
   - https://aigents.com/papers/2020/Global-Brain-and-AGI-2020.pdf
   - https://aigents.com/papers/2021/Collective-General-Intelligence-2021.pdf
   - Videos
