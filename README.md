@@ -3,8 +3,8 @@ Anton Kolonin, Ph.D.
 https://lifeboat.com/ex/bios.anton.kolonin
 
 ## Blocks and Topics (21 lectures)
-- **Introduction, General AI, Interpretable AI, Collective AI - state of the art (2)**
-  - https://github.com/aigents/iai/blob/main/docs/2025/agi-iai-cai-etc-2025.pdf (paused at slide 7, Strong generalization)
+- **Introduction, General AI, Interpretable AI, Collective AI - state of the art (3)**
+  - https://github.com/aigents/iai/blob/main/docs/2025/agi-iai-cai-etc-2025.pdf (paused at slide 12, moving from left to right side of the slide)
   - https://aigents.com/papers/2020/Global-Brain-and-AGI-2020.pdf
   - https://aigents.com/papers/2021/Collective-General-Intelligence-2021.pdf
   - Videos
