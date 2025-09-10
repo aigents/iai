@@ -81,6 +81,14 @@ https://lifeboat.com/ex/bios.anton.kolonin
 ## Course work and diploma thesis topics
 - LLM-enabled engineering
   - LLM-enabled test-driven software development
+    - https://arxiv.org/abs/2401.13266
+    - https://arxiv.org/abs/2504.03711
+    - https://arxiv.org/html/2312.08617v4
+    - https://arxiv.org/html/2503.15112v1
+    - https://dl.acm.org/doi/10.1145/3715324
+    - https://www.mdpi.com/2079-9292/14/1/120
+    - https://semiengineering.com/llm-powered-automatic-vlsi-design-flow-tuning-framework/
+    - https://www.researchgate.net/publication/392200360_Recent_Advances_in_VLSI_Very-Large-_Scale_Integration_Design_Techniques
   - VLSI design with LLMs for code and test generation and code verification
   - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge    
 - Artificial General Intelligence (AGI) and Experientiall Learning (EL)
