@@ -94,7 +94,12 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://semiengineering.com/llm-powered-automatic-vlsi-design-flow-tuning-framework/
     - https://www.researchgate.net/publication/392200360_Recent_Advances_in_VLSI_Very-Large-_Scale_Integration_Design_Techniques
   - VLSI design with LLMs for code and test generation and code verification
-  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge    
+  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge
+    - Framework: https://python.langchain.com/docs/integrations/tools/
+    - Domains:
+      - Contact Manager
+      - Calendar/Diary
+      - Smart Home
 - Artificial General Intelligence (AGI) and Experientiall Learning (EL)
   - Neuro-symbolic RL for adaptive robotics
   - Decision support systems (DSS) for automatic process control systems (APCS)
