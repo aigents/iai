@@ -94,7 +94,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://semiengineering.com/llm-powered-automatic-vlsi-design-flow-tuning-framework/
     - https://www.researchgate.net/publication/392200360_Recent_Advances_in_VLSI_Very-Large-_Scale_Integration_Design_Techniques
   - VLSI design with LLMs for code and test generation and code verification
-  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge
+  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge (Shuai Hu)
     - Framework: https://python.langchain.com/docs/integrations/tools/
     - Domains:
       - Contact Manager
@@ -115,9 +115,9 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://arxiv.org/abs/2204.12928
     - https://arxiv.org/abs/2204.10185
     - https://blog.singularitynet.io/aigents-sentiment-detection-personal-and-social-relevant-news-be989d73b381
-  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English (or other languages, may be cross-lingual)
+  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English, or other languages, may be cross-lingual (Samson Bobo)
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
-  - Social media relationship graph extraction and annotation with psycho-emotinal expressions (or other languages, may be cross-lingual)
+  - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual (Usman Gidado)
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
 - Social computing applications in social media and multi-agent systems
   - Reputation consensus for distributed ledger systems
