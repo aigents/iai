@@ -11,6 +11,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - https://blog.singularitynet.io/graphs-part-1-how-singularitynet-will-leverage-opencog-aigents-b21e581cf9f8 ([cached](https://github.com/aigents/pygents/blob/main/docs/2023/Graphs%20Part%201_%20How%20SingularityNET%20Will%20Leverage%20OpenCog%20%26%20Aigents%20_%20by%20Aigents%20with%20Anton%20Kolonin%20_%20SingularityNET.pdf))
   - https://aigents.com/graphs.html?file=%2Ftest%2Fgraphs%2Fontology.txt&layout_directions=3&layout_balance=50
   - https://aigents.com/papers/2018/hyper-multi-graphs-2018.pdf
+  - https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf
   - https://schema.org/docs/schemas.html
   - https://schema.org/docs/gs.html#microdata_embedded
   - https://www.wikidata.org/wiki/Q937
@@ -56,6 +57,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.youtube.com/watch?v=09wz8GQUvXs
 - _Interpretable natural lanuaguage processing (3)_
   - https://github.com/aigents/pygents/blob/main/docs/2023/inlp-2023.pdf
+  - RAG/TAG/GraphRAG/TSAG/... https://aigents.com/papers/2025/ontologies-back-2025.pdf
   - Videos
     - https://www.youtube.com/watch?v=IwTixghbnks
     - https://www.youtube.com/watch?v=WSFU6cwBGQk
