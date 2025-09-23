@@ -85,6 +85,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
 ## Course work and diploma thesis topics
 - LLM-enabled engineering _(Alina Kulikova)_
   - LLM-enabled test-driven software development
+  - VLSI design with LLMs for code and test generation and code verification
     - https://arxiv.org/abs/2401.13266
     - https://arxiv.org/abs/2504.03711
     - https://arxiv.org/html/2312.08617v4
@@ -93,8 +94,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.mdpi.com/2079-9292/14/1/120
     - https://semiengineering.com/llm-powered-automatic-vlsi-design-flow-tuning-framework/
     - https://www.researchgate.net/publication/392200360_Recent_Advances_in_VLSI_Very-Large-_Scale_Integration_Design_Techniques
-  - VLSI design with LLMs for code and test generation and code verification
-  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge (Shuai Hu)
+  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge _(Shuai Hu)_
     - Framework: https://python.langchain.com/docs/integrations/tools/
     - Domains:
       - Contact Manager
@@ -111,13 +111,13 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.springerprofessional.de/en/unsupervised-language-learning-in-opencog/15995030
     - https://arxiv.org/abs/2205.11443
     - https://arxiv.org/abs/2303.02427  
-  - Social media text analysis for psycho-emotinal expressions of sentiment, emotions, intent, manipulation and cognitive distortions in social media for Chinese/Russian/English (or other languages, may be cross-lingual)
+  - Social media text analysis for psycho-emotinal expressions of sentiment, emotions, intent, manipulation and cognitive distortions in social media for Chinese/Russian/English, or other languages, may be cross-lingual _(Shi Haonan)_
     - https://arxiv.org/abs/2204.12928
     - https://arxiv.org/abs/2204.10185
     - https://blog.singularitynet.io/aigents-sentiment-detection-personal-and-social-relevant-news-be989d73b381
-  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English, or other languages, may be cross-lingual (Samson Bobo)
+  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English, or other languages, may be cross-lingual _(Samson Bobo)_
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
-  - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual (Usman Gidado)
+  - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual _(Usman Gidado)_
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
 - Social computing applications in social media and multi-agent systems
   - Reputation consensus for distributed ledger systems
