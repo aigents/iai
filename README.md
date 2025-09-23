@@ -127,11 +127,11 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://arxiv.org/abs/1905.08036
     - https://arxiv.org/abs/2210.02362  
 
-## Course work structure
-- Publication on medium, substack, github blog/site, etc. - covering prior art, R&D done and its results
-- Code with R&D results committed to github under open source license
+## Course work requirements
+- Publication on arxiv.org, medium.com, substack.com, github.com or similar blog/site, etc. - covering prior art, R&D done and its results
+- Code with R&D results committed to github under open source license, reproducible and runnable with exhaustive how-to instructions
 - Presentation slides uploaded/linked to either of the above
-- Presentation in class
+- In-person presentation in class
 
 ## Related works
 - https://www.scopus.com/authid/detail.uri?authorId=57021892200
