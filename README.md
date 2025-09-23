@@ -111,13 +111,13 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.springerprofessional.de/en/unsupervised-language-learning-in-opencog/15995030
     - https://arxiv.org/abs/2205.11443
     - https://arxiv.org/abs/2303.02427  
-  - Social media text analysis for psycho-emotinal expressions of sentiment, emotions, intent, manipulation and cognitive distortions in social media for Chinese/Russian/English, or other languages, may be cross-lingual _(Shi Haonan)_
+  - Social media text analysis for psycho-emotinal expressions of sentiment, emotions, intent, manipulation and cognitive distortions in social media for Chinese/Russian/English, or other languages, may be cross-lingual _(Shi Haonan, Chinese)_
     - https://arxiv.org/abs/2204.12928
     - https://arxiv.org/abs/2204.10185
     - https://blog.singularitynet.io/aigents-sentiment-detection-personal-and-social-relevant-news-be989d73b381
-  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English, or other languages, may be cross-lingual _(Samson Bobo)_
+  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English, or other languages, may be cross-lingual _(Samson Bobo, English)_
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
-  - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual _(Usman Gidado)_
+  - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual _(Usman Gidado, English)_
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
 - Social computing applications in social media and multi-agent systems
   - Reputation consensus for distributed ledger systems
