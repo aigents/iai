@@ -101,8 +101,24 @@ https://lifeboat.com/ex/bios.anton.kolonin
       - Calendar/Diary
       - Smart Home
 - Artificial General Intelligence (AGI) and Experientiall Learning (EL)
-  - Neuro-symbolic RL for adaptive robotics
-  - Decision support systems (DSS) for automatic process control systems (APCS)
+  - Neuro-symbolic RL for adaptive robotics based on Open AI Gym environment
+    - https://arxiviq.substack.com/p/intuitor-unlocking-ai-reasoning-with
+    - https://link.springer.com/chapter/10.1007/978-3-030-93758-4_12
+    - https://github.com/aigents/aigents-java/tree/master/src/main/java/net/webstructor/agi
+    - https://github.com/aigents/aigents-python/blob/main/aigents-python/opengymsock.py
+    - https://www.youtube.com/watch?v=OmKDdEUX0TY
+    - https://github.com/openai/gym
+    - https://github.com/openai/gym/wiki/Environments
+    - https://www.digitalocean.com/community/tutorials/getting-started-with-openai-gym
+    - https://gymnasium.farama.org/
+    - https://ale.farama.org/environments/
+  - Decision support systems (DSS) for automatic process control systems (APCS) such as "Smart Home" or "Smart City"
+    - https://developers.home.google.com/apis#automation
+    - https://github.com/home-assistant
+    - https://www.home-assistant.io/dashboards/
+    - https://www.home-assistant.io/integrations/mcp/
+    - https://github.com/tevonsb/homeassistant-mcp
+    - https://www.youtube.com/watch?v=Bg7wAwCGtl4
 - Interpretable natural language modeling and unsupervised learning
   - Conversation-based individual and group behavioral and psychological profiling
   - Adaptive weak-supervised NLP for content moderation
