@@ -83,7 +83,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
 - Summary, bottom lines, question answering (1) 
 
 ## Course work and diploma thesis topics
-- LLM-enabled engineering
+- LLM-enabled engineering _(Alina Kulikova)_
   - LLM-enabled test-driven software development
     - https://arxiv.org/abs/2401.13266
     - https://arxiv.org/abs/2504.03711
