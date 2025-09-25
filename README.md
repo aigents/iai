@@ -85,7 +85,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
 ## Course work and diploma thesis topics
 - LLM-enabled engineering
   - LLM-enabled test-driven software development _(Alina Kulikova, Master Thesis)_
-    - ...
+    - https://vkvideo.ru/video-210968399_456239228
   - VLSI design with LLMs for code and test generation and code verification
     - https://arxiv.org/abs/2401.13266
     - https://arxiv.org/abs/2504.03711
@@ -121,9 +121,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://github.com/tevonsb/homeassistant-mcp
     - https://www.youtube.com/watch?v=Bg7wAwCGtl4
 - Interpretable natural language modeling and unsupervised learning
-  - Conversation-based individual and group behavioral and psychological profiling
-  - Adaptive weak-supervised NLP for content moderation
-  - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian
+  - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian _(Shine)_
     - https://www.springerprofessional.de/en/programmatic-link-grammar-induction-for-unsupervised-language-le/17020348
     - https://www.springerprofessional.de/en/unsupervised-language-learning-in-opencog/15995030
     - http://langlearn.singularitynet.io/data/docs/
@@ -139,6 +137,10 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
   - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual _(Usman Gidado, English)_
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
+  - Conversation-based individual and group behavioral and psychological profiling
+    - ...
+  - Adaptive weak-supervised NLP for content moderation
+    - ...
 - Social computing applications in social media and multi-agent systems
   - Reputation consensus for distributed ledger systems
     - https://arxiv.org/pdf/1806.07342.pdf
