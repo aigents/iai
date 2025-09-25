@@ -126,8 +126,11 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian
     - https://www.springerprofessional.de/en/programmatic-link-grammar-induction-for-unsupervised-language-le/17020348
     - https://www.springerprofessional.de/en/unsupervised-language-learning-in-opencog/15995030
+    - http://langlearn.singularitynet.io/data/docs/
     - https://arxiv.org/abs/2205.11443
-    - https://arxiv.org/abs/2303.02427  
+    - https://arxiv.org/abs/2303.02427
+    - https://www.youtube.com/watch?v=YY7lMVFWTzo
+    - https://www.youtube.com/watch?v=FzKMtNILmDk
   - Social media text analysis for psycho-emotinal expressions of sentiment, emotions, intent, manipulation and cognitive distortions in social media for Chinese/Russian/English, or other languages, may be cross-lingual _(Shi Haonan, Chinese)_
     - https://arxiv.org/abs/2204.12928
     - https://arxiv.org/abs/2204.10185
