@@ -85,7 +85,11 @@ https://lifeboat.com/ex/bios.anton.kolonin
 ## Course work and diploma thesis topics
 - LLM-enabled engineering
   - LLM-enabled test-driven software development _(Alina Kulikova, Master Thesis)_
+    - https://t.me/agitopics/51835/51836
     - https://vkvideo.ru/video-210968399_456239228
+    - https://vkvideo.ru/video-210968399_456239170
+    - https://kiro.dev/
+    - https://github.com/ruvnet/claude-flow
   - VLSI design with LLMs for code and test generation and code verification
     - https://arxiv.org/abs/2401.13266
     - https://arxiv.org/abs/2504.03711
