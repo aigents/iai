@@ -7,7 +7,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - https://github.com/aigents/iai/blob/main/docs/2025/agi-iai-cai-etc-2025.pdf
   - Videos
     - https://www.youtube.com/watch?v=ZusjVvxEinw
-- **Graph-based knowledge representations and semantics (3)**
+- **Graph-based knowledge representations and semantics (1/3)**
   - https://blog.singularitynet.io/graphs-part-1-how-singularitynet-will-leverage-opencog-aigents-b21e581cf9f8 ([cached](https://github.com/aigents/pygents/blob/main/docs/2023/Graphs%20Part%201_%20How%20SingularityNET%20Will%20Leverage%20OpenCog%20%26%20Aigents%20_%20by%20Aigents%20with%20Anton%20Kolonin%20_%20SingularityNET.pdf))
   - https://aigents.com/graphs.html?file=%2Ftest%2Fgraphs%2Fontology.txt&layout_directions=3&layout_balance=50
   - https://aigents.com/papers/2018/hyper-multi-graphs-2018.pdf **(slide 13)**
