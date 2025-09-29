@@ -20,7 +20,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.youtube.com/watch?v=yzaSVVLWATE
     - https://www.youtube.com/watch?v=KTIAcU8Pcl8
     - https://www.youtube.com/watch?v=g-GIilvPSL4
-- _Consciousness and psyche and their application asspects(2)_
+- _Consciousness and psyche and their application aspects(2)_
   - https://github.com/aigents/iai/blob/main/docs/2025/consciousness_kolonin_2025.pdf
   - https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_ru.pdf
   - Videos
