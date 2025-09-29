@@ -20,11 +20,13 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.youtube.com/watch?v=yzaSVVLWATE
     - https://www.youtube.com/watch?v=KTIAcU8Pcl8
     - https://www.youtube.com/watch?v=g-GIilvPSL4
-- _Consciousness and its aspects (1)_
-  - https://aigents.com/papers/2023/consciousness_kolonin_2023.pdf
+- _Consciousness and psyche and their application asspects(2)_
+  - https://github.com/aigents/iai/blob/main/docs/2025/consciousness_kolonin_2025.pdf
+  - https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_ru.pdf
   - Videos
     - https://www.youtube.com/watch?v=hFXWFkeNXOs
-- _Cognitive model based on social evidence restricted by resources (3)_
+- _Cognitive-behavioral model based on social evidence restricted by resources (3)_
+  - https://aigents.com/papers/2024/social-evidence_kolonin_2024.pdf
   - https://aigents.com/papers/2023/cognitive_model_kolonin_2023.pdf
   - Videos
     - https://www.youtube.com/watch?v=7357cBCpalg
