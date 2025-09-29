@@ -123,6 +123,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.home-assistant.io/dashboards/
     - https://www.home-assistant.io/integrations/mcp/
     - https://github.com/tevonsb/homeassistant-mcp
+    - https://www.researchgate.net/publication/311662442_Adaptive_Intelligent_Manufacturing_Control_Systems
     - https://www.youtube.com/watch?v=Bg7wAwCGtl4
 - Interpretable natural language modeling and unsupervised learning
   - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian _(Shine)_
