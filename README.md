@@ -145,9 +145,11 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual _(Usman Gidado, English)_
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
   - Conversation-based individual and group behavioral and psychological profiling
-    - ...
+    - https://en.wikibooks.org/wiki/Managing_Groups_and_Teams/Psychological_Profiling
+    - https://crestresearch.ac.uk/comment/boyd-psychological-profiling-and-event-forecasting/
   - Adaptive weak-supervised NLP for content moderation
-    - ...
+    - https://aigents.medium.com/aigents-bot-for-telegram-groups-1dba32140047
+    - https://dzen.ru/a/X80Iv4-MeFPtsivI
 - Social computing applications in social media and multi-agent systems
   - Reputation consensus for distributed ledger systems
     - https://arxiv.org/pdf/1806.07342.pdf
