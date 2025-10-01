@@ -111,6 +111,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Neuro-symbolic RL for adaptive robotics based on Open AI Gym environment
     - https://arxiviq.substack.com/p/intuitor-unlocking-ai-reasoning-with
     - https://link.springer.com/chapter/10.1007/978-3-030-93758-4_12
+    - https://aigents.com/papers/2021/NeuroSymbolicExperientialLearningKolonin.pdf
     - https://github.com/aigents/aigents-java/tree/master/src/main/java/net/webstructor/agi
     - https://github.com/aigents/aigents-python/blob/main/aigents-python/opengymsock.py
     - https://www.youtube.com/watch?v=OmKDdEUX0TY
@@ -119,6 +120,8 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.digitalocean.com/community/tutorials/getting-started-with-openai-gym
     - https://gymnasium.farama.org/
     - https://ale.farama.org/environments/
+    - https://en.wikipedia.org/wiki/Q-learning
+    - https://docs.pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
   - Decision support systems (DSS) for automatic process control systems (APCS) such as "Smart Home" or "Smart City"
     - https://developers.home.google.com/apis#automation
     - https://github.com/home-assistant
