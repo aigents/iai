@@ -112,6 +112,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://arxiviq.substack.com/p/intuitor-unlocking-ai-reasoning-with
     - https://link.springer.com/chapter/10.1007/978-3-030-93758-4_12
     - https://aigents.com/papers/2021/NeuroSymbolicExperientialLearningKolonin.pdf
+    - https://arxiv.org/abs/2509.07009
     - https://github.com/aigents/aigents-java/tree/master/src/main/java/net/webstructor/agi
     - https://github.com/aigents/aigents-python/blob/main/aigents-python/opengymsock.py
     - https://www.youtube.com/watch?v=OmKDdEUX0TY
