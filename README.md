@@ -131,6 +131,11 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://github.com/tevonsb/homeassistant-mcp
     - https://www.researchgate.net/publication/311662442_Adaptive_Intelligent_Manufacturing_Control_Systems
     - https://www.youtube.com/watch?v=Bg7wAwCGtl4
+  - ARC-AGI benchmark, which measures general intelligence through skill acquisition efficiency
+    - https://arcprize.org/
+    - https://three.arcprize.org/
+    - https://github.com/arcprize/
+    - https://github.com/arcprize/ARC-AGI-2
 - Interpretable natural language modeling and unsupervised learning
   - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian _(Shine)_
     - https://www.springerprofessional.de/en/programmatic-link-grammar-induction-for-unsupervised-language-le/17020348
