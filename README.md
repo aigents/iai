@@ -10,9 +10,9 @@ https://lifeboat.com/ex/bios.anton.kolonin
 - **Graph-based knowledge representations and semantics (1/3)**
   - https://blog.singularitynet.io/graphs-part-1-how-singularitynet-will-leverage-opencog-aigents-b21e581cf9f8 ([cached](https://github.com/aigents/pygents/blob/main/docs/2023/Graphs%20Part%201_%20How%20SingularityNET%20Will%20Leverage%20OpenCog%20%26%20Aigents%20_%20by%20Aigents%20with%20Anton%20Kolonin%20_%20SingularityNET.pdf))
   - https://aigents.com/graphs.html?file=%2Ftest%2Fgraphs%2Fontology.txt&layout_directions=3&layout_balance=50
-  - https://aigents.com/papers/2018/hyper-multi-graphs-2018.pdf **(slide 13)**
+  - https://aigents.com/papers/2018/hyper-multi-graphs-2018.pdf
   - https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf
-  - https://schema.org/docs/schemas.html
+  - https://schema.org/docs/schemas.html **(stopped here)**
   - https://schema.org/docs/gs.html#microdata_embedded
   - https://www.wikidata.org/wiki/Q937
   - https://dbpedia.org/page/Albert_Einstein
