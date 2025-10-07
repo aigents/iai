@@ -12,7 +12,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - https://aigents.com/graphs.html?file=%2Ftest%2Fgraphs%2Fontology.txt&layout_directions=3&layout_balance=50
   - https://aigents.com/papers/2018/hyper-multi-graphs-2018.pdf
   - https://aigents.com/papers/2025/ontologies-webstructor-aigents-2025.pdf
-  - https://schema.org/docs/schemas.html **(stopped here)**
+  - https://schema.org/docs/schemas.html
   - https://schema.org/docs/gs.html#microdata_embedded
   - https://www.wikidata.org/wiki/Q937
   - https://dbpedia.org/page/Albert_Einstein
