@@ -157,9 +157,13 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Conversation-based individual and group behavioral and psychological profiling
     - https://en.wikibooks.org/wiki/Managing_Groups_and_Teams/Psychological_Profiling
     - https://crestresearch.ac.uk/comment/boyd-psychological-profiling-and-event-forecasting/
-  - Adaptive weak-supervised NLP for content moderation
+  - Adaptive weak-supervised (advisor-supervised) NLP for content moderation (incremental text classification learning or textual reinforcement learning)
     - https://aigents.medium.com/aigents-bot-for-telegram-groups-1dba32140047
     - https://dzen.ru/a/X80Iv4-MeFPtsivI
+    - https://github.com/aigents/aigents-java/blob/master/src/main/java/net/webstructor/comm/telegram/Telegrammer.java#L427
+    - https://www.mathworks.com/help/stats/perform-text-classification-incrementally.html
+    - https://www.sciencedirect.com/science/article/abs/pii/S0957417420300245
+    - https://arxiv.org/abs/2104.11882
 - Social computing applications in social media and multi-agent systems
   - Reputation consensus for distributed ledger systems
     - https://arxiv.org/pdf/1806.07342.pdf
