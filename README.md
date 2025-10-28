@@ -26,13 +26,15 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=hFXWFkeNXOs
 - Neuro-symbolic architectures and experiential learning (1)
-  - https://aigents.com/papers/2020/Towards-Interpretable-AGI-2020-en.pdf
+  - https://github.com/aigents/iai/blob/main/docs/2022/towards-interpretable-neurosymbolic-agi-2022.pdf
   - https://aigents.com/papers/2022/towards-interpretable-neurosymbolic-agi-2022.pdf
+  - https://aigents.com/papers/2020/Towards-Interpretable-AGI-2020-en.pdf
   - Videos
     - https://www.youtube.com/watch?v=OmKDdEUX0TY (short, English)
     - https://www.youtube.com/watch?v=AV_QQ7fqalw (long, English)
     - https://www.youtube.com/watch?v=2LPLhJKh95g (very short, demo, Russian)
 - Cognitive-behavioral model based on social evidence restricted by resources (3)
+  - https://github.com/aigents/iai/blob/main/docs/2024/social-evidence_kolonin_2024.pdf
   - https://aigents.com/papers/2024/social-evidence_kolonin_2024.pdf
   - https://aigents.com/papers/2023/cognitive_model_kolonin_2023.pdf
   - Videos
