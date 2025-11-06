@@ -20,12 +20,12 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.youtube.com/watch?v=yzaSVVLWATE
     - https://www.youtube.com/watch?v=KTIAcU8Pcl8
     - https://www.youtube.com/watch?v=g-GIilvPSL4
-- **Consciousness and psyche and their application aspects(0.5/2)**
+- _Consciousness and psyche and their application aspects(2)_
   - https://github.com/aigents/iai/blob/main/docs/2025/consciousness_kolonin_2025.pdf 
-  - https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_en.pdf (**11-12, short-term/long-term**)
+  - https://github.com/aigents/iai/blob/main/docs/2025/psyche_model_kolonin_en.pdf
   - Videos
     - https://www.youtube.com/watch?v=hFXWFkeNXOs
-- Neuro-symbolic architectures and experiential learning (1)
+- _Neuro-symbolic architectures and experiential learning (1)_
   - https://github.com/aigents/iai/blob/main/docs/2022/towards-interpretable-neurosymbolic-agi-2022.pdf
   - https://aigents.com/papers/2022/towards-interpretable-neurosymbolic-agi-2022.pdf
   - https://aigents.com/papers/2020/Towards-Interpretable-AGI-2020-en.pdf
