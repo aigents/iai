@@ -128,6 +128,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.digitalocean.com/community/tutorials/getting-started-with-openai-gym
     - https://gymnasium.farama.org/
     - https://ale.farama.org/environments/
+    - https://github.com/mila-iqia/atari-representation-learning/blob/master/atariari/benchmark/ram_annotations.py
     - https://en.wikipedia.org/wiki/Q-learning
     - https://docs.pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
   - Decision support systems (DSS) for automatic process control systems (APCS) such as "Smart Home" or "Smart City"
