@@ -45,8 +45,10 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=flZj4bmGSzg
 - Social management applications and reputation systems (2) **Nov 18**
+  - https://github.com/aigents/iai/blob/main/docs/2019/Social-Computing-with-Online-Communities-2019.pdf
   - https://aigents.com/papers/2019/Social-Computing-with-Online-Communities-2019.pdf
   - https://aigents.com/papers/2022/bigsocialdata_kolonin_2022.pdf
+  - https://github.com/aigents/iai/blob/main/docs/2023/proof-of-reputation-2023.pdf
   - https://aigents.com/papers/2023/proof-of-reputation-2023.pdf
   - https://aigents.com/papers/2023/simulating-societies-2023.pdf
   - Videos
@@ -55,7 +57,9 @@ https://lifeboat.com/ex/bios.anton.kolonin
 - Artificial intelligence for quantitative finance (1) **Nov 25**
   - https://singularity-dao.github.io/agi-fintech/
   - https://aigents.github.io/inlp/2022/slides/
+  - https://github.com/aigents/iai/blob/main/docs/2022/ai4cryptofinance2022.pdf
   - https://aigents.com/papers/2022/ai4cryptofinance2022.pdf
+  - https://github.com/aigents/iai/blob/main/docs/2023/adaptive-active-market-making-2023.pdf
   - https://aigents.com/papers/2023/adaptive-active-market-making-2023.pdf
   - Videos
     - https://www.youtube.com/watch?v=3x8hu6Te0WI
