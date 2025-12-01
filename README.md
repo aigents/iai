@@ -33,7 +33,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.youtube.com/watch?v=OmKDdEUX0TY (short, English)
     - https://www.youtube.com/watch?v=AV_QQ7fqalw (long, English)
     - https://www.youtube.com/watch?v=2LPLhJKh95g (very short, demo, Russian)
-- Cognitive-behavioral model based on social evidence restricted by resources (3) **Nov 11**
+- Cognitive-behavioral model based on social evidence restricted by resources (3)
   - https://github.com/aigents/iai/blob/main/docs/2024/social-evidence_kolonin_2024.pdf
   - https://aigents.com/papers/2024/social-evidence_kolonin_2024.pdf
   - https://aigents.com/papers/2023/cognitive_model_kolonin_2023.pdf
@@ -44,8 +44,8 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - https://aigents.com/papers/2021/Collective-General-Intelligence-2021.pdf
   - Videos
     - https://www.youtube.com/watch?v=flZj4bmGSzg
-- Social management applications and reputation systems (2) **Nov 18**
-  - https://github.com/aigents/iai/blob/main/docs/2019/Social-Computing-with-Online-Communities-2019.pdf
+- Social management applications and reputation systems (2)
+  - https://github.com/aigents/iai/blob/main/docs/2019/Social-Computing-with-Online-Communities-2019.pdf **Dec 2 Slides 19-20**
   - https://aigents.com/papers/2019/Social-Computing-with-Online-Communities-2019.pdf
   - https://aigents.com/papers/2022/bigsocialdata_kolonin_2022.pdf
   - https://github.com/aigents/iai/blob/main/docs/2023/proof-of-reputation-2023.pdf
@@ -54,7 +54,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=XOhK20uSM-8
     - https://www.youtube.com/watch?v=hf6qH2VeJc0
-- Artificial intelligence for quantitative finance (1) **Nov 25**
+- Artificial intelligence for quantitative finance (1) **Dec 9**
   - https://singularity-dao.github.io/agi-fintech/
   - https://aigents.github.io/inlp/2022/slides/
   - https://github.com/aigents/iai/blob/main/docs/2022/ai4cryptofinance2022.pdf
@@ -65,18 +65,18 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.youtube.com/watch?v=3x8hu6Te0WI
     - https://www.youtube.com/watch?v=WY9JjFREcyE
     - https://www.youtube.com/watch?v=N_DqXjcIP0I
-- Clustering and segmentation for applications (1) **Dec 2**
+- Clustering and segmentation for applications (1) **Dec 16**
   - https://github.com/aigents/pygents/blob/main/docs/2022/clustering-segmentation-2022.pdf
   - https://github.com/aigents/pygents/blob/main/docs/2022/clustering-segmentation-2022-ru.pdf
   - Videos
     - https://www.youtube.com/watch?v=09wz8GQUvXs
-- Interpretable natural lanuaguage processing (3) **Dec 9**
+- Interpretable natural lanuaguage processing (3) **Dec 23 (if time permits after defence)**
   - https://github.com/aigents/pygents/blob/main/docs/2023/inlp-2023.pdf
   - RAG/TAG/GraphRAG/TSAG/... https://aigents.com/papers/2025/ontologies-back-2025.pdf
   - Videos
     - https://www.youtube.com/watch?v=IwTixghbnks
     - https://www.youtube.com/watch?v=WSFU6cwBGQk
-- Decision support systems based on interpretable AI (1) **Dec 16**
+- Decision support systems based on interpretable AI (1)
   - https://aigents.com/papers/2022/BPP-BICA-2022.pdf
   - Videos
     - https://www.youtube.com/watch?v=xwjoOyd9D2w
@@ -86,7 +86,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=-Rk30P2vajo
     - https://www.youtube.com/watch?v=VK6XsDxdqdc
-- Process mining and predictive process-based modeling (1) **Dec 23 (if time permits after defence)**
+- Process mining and predictive process-based modeling (1)
   - https://aigents.com/papers/2022/activity-ontology-2022.pdf
   - https://aigents.com/papers/2022/causal-analytics-agi-2022.pdf
 - Summary, bottom lines, question answering (1) 
