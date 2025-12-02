@@ -45,7 +45,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=flZj4bmGSzg
 - Social management applications and reputation systems (2)
-  - https://github.com/aigents/iai/blob/main/docs/2019/Social-Computing-with-Online-Communities-2019.pdf **Dec 2 Slides 19-20**
+  - https://github.com/aigents/iai/blob/main/docs/2019/Social-Computing-with-Online-Communities-2019.pdf
   - https://aigents.com/papers/2019/Social-Computing-with-Online-Communities-2019.pdf
   - https://aigents.com/papers/2022/bigsocialdata_kolonin_2022.pdf
   - https://github.com/aigents/iai/blob/main/docs/2023/proof-of-reputation-2023.pdf
@@ -54,7 +54,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=XOhK20uSM-8
     - https://www.youtube.com/watch?v=hf6qH2VeJc0
-- Artificial intelligence for quantitative finance (1) **Dec 2**
+- Artificial intelligence for quantitative finance (1) **Dec 9**
   - https://aigents.github.io/inlp/2022/slides/
   - https://singularity-dao.github.io/agi-fintech/
   - https://github.com/aigents/iai/blob/main/docs/2022/ai4cryptofinance2022.pdf
@@ -65,13 +65,13 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.youtube.com/watch?v=3x8hu6Te0WI
     - https://www.youtube.com/watch?v=WY9JjFREcyE
     - https://www.youtube.com/watch?v=N_DqXjcIP0I
-- Clustering and segmentation for applications (1) **Dec 9**
+- Clustering and segmentation for applications (1) **Dec 16**
   - https://github.com/aigents/pygents/blob/main/docs/2022/clustering-segmentation-2022.pdf
   - https://github.com/aigents/pygents/blob/main/docs/2022/clustering-segmentation-2022-ru.pdf
   - Videos
     - https://www.youtube.com/watch?v=09wz8GQUvXs
 - Interpretable natural lanuaguage processing (3) 
-  - https://github.com/aigents/pygents/blob/main/docs/2023/inlp-2023.pdf **Dec 16**
+  - https://github.com/aigents/pygents/blob/main/docs/2023/inlp-2023.pdf **Dec 23 (if time permits after defence)**
   - RAG/TAG/GraphRAG/TSAG/... https://aigents.com/papers/2025/ontologies-back-2025.pdf
   - Videos
     - https://www.youtube.com/watch?v=IwTixghbnks
@@ -81,7 +81,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=xwjoOyd9D2w
 - Data structures and methods for interpretable artificial general intelligence (2)
-  - https://aigents.com/papers/2021/data4agi.pdf **Dec 23 (if time permits after defence)**
+  - https://aigents.com/papers/2021/data4agi.pdf
   - https://aigents.com/papers/2020/Data-Structures-2020-en.pdf
   - Videos
     - https://www.youtube.com/watch?v=-Rk30P2vajo
