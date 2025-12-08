@@ -54,11 +54,17 @@ https://lifeboat.com/ex/bios.anton.kolonin
   - Videos
     - https://www.youtube.com/watch?v=XOhK20uSM-8
     - https://www.youtube.com/watch?v=hf6qH2VeJc0
+- Some practical DS/ML aspects **Dec 9**
+  - Splitting data sets train/validation/test\
+  - Data leakage (missing field data in test/train + using train data in test orr vice versa)
+  - Knowing data/label distributions
+  - Overfitting (wrong splitting, data leakage, too many features)
+  - Knowing lower and upper baselines (const const, const derivative, periodic, random, overfitting)
 - Artificial intelligence for quantitative finance (1) **Dec 9**
-  - https://aigents.github.io/inlp/2022/slides/
-  - https://singularity-dao.github.io/agi-fintech/
   - https://github.com/aigents/iai/blob/main/docs/2022/ai4cryptofinance2022.pdf
   - https://github.com/aigents/iai/blob/main/docs/2023/adaptive-active-market-making-2023.pdf
+  - https://aigents.github.io/inlp/2022/slides/
+  - https://singularity-dao.github.io/agi-fintech/
   - https://aigents.com/papers/2022/ai4cryptofinance2022.pdf
   - https://aigents.com/papers/2023/adaptive-active-market-making-2023.pdf
   - Videos
