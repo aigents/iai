@@ -121,7 +121,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
       - Calendar/Diary
       - Smart Home
 - Artificial General Intelligence (AGI) and Experientiall Learning (EL)
-  - Neuro-symbolic RL for adaptive robotics based on Open AI Gym environment _(Xia Ziye, Vladimir Kravtsov - Diploma)_
+  - Neuro-symbolic RL for adaptive robotics based on Open AI Gym environment _()_
     - https://arxiviq.substack.com/p/intuitor-unlocking-ai-reasoning-with
     - https://link.springer.com/chapter/10.1007/978-3-030-93758-4_12
     - https://aigents.com/papers/2021/NeuroSymbolicExperientialLearningKolonin.pdf
