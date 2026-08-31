@@ -99,7 +99,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
 
 ## Course work and diploma thesis topics
 - LLM-enabled engineering
-  - LLM-enabled test-driven software development _(Alina Kulikova - Diploma)_
+  - LLM-enabled test-driven software development
     - https://t.me/agitopics/51835/51836
     - https://vkvideo.ru/video-210968399_456239228
     - https://vkvideo.ru/video-210968399_456239170
@@ -114,14 +114,14 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.mdpi.com/2079-9292/14/1/120
     - https://semiengineering.com/llm-powered-automatic-vlsi-design-flow-tuning-framework/
     - https://www.researchgate.net/publication/392200360_Recent_Advances_in_VLSI_Very-Large-_Scale_Integration_Design_Techniques
-  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge _(Shuai Hu)_
+  - Active-Memory Augmented Generation (AMAG) - LLM coupled with database (RRBMS or OODB or GraphDB) using tooling framework (LangChain) for retrieval and amendment of dynamic knowledge
     - Framework: https://python.langchain.com/docs/integrations/tools/
     - Domains:
       - Contact Manager
       - Calendar/Diary
       - Smart Home
 - Artificial General Intelligence (AGI) and Experientiall Learning (EL)
-  - Neuro-symbolic RL for adaptive robotics based on Open AI Gym environment _()_
+  - Neuro-symbolic RL for adaptive robotics based on Open AI Gym environment
     - https://arxiviq.substack.com/p/intuitor-unlocking-ai-reasoning-with
     - https://link.springer.com/chapter/10.1007/978-3-030-93758-4_12
     - https://aigents.com/papers/2021/NeuroSymbolicExperientialLearningKolonin.pdf
@@ -151,7 +151,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://github.com/arcprize/
     - https://github.com/arcprize/ARC-AGI-2
 - Interpretable natural language modeling and unsupervised learning
-  - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian _(Shine Khant Aung)_
+  - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian
     - https://www.springerprofessional.de/en/programmatic-link-grammar-induction-for-unsupervised-language-le/17020348
     - https://www.springerprofessional.de/en/unsupervised-language-learning-in-opencog/15995030
     - http://langlearn.singularitynet.io/data/docs/
@@ -159,13 +159,13 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://arxiv.org/abs/2303.02427
     - https://www.youtube.com/watch?v=YY7lMVFWTzo
     - https://www.youtube.com/watch?v=FzKMtNILmDk
-  - Social media text analysis for psycho-emotinal expressions of sentiment, emotions, intent, manipulation and cognitive distortions in social media for Chinese/Russian/English, or other languages, may be cross-lingual _(Shi Haonan, Chinese)_
+  - Social media text analysis for psycho-emotinal expressions of sentiment, emotions, intent, manipulation and cognitive distortions in social media for Chinese/Russian/English, or other languages, may be cross-lingual
     - https://arxiv.org/abs/2204.12928
     - https://arxiv.org/abs/2204.10185
     - https://blog.singularitynet.io/aigents-sentiment-detection-personal-and-social-relevant-news-be989d73b381
-  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English, or other languages, may be cross-lingual _(Samson Bobo, English)_
+  - Social media text topic modeling and agenda mining correlated with psycho-emotinal expressions for Chinese/Russian/English, or other languages, may be cross-lingual
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
-  - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual _(Usman Gidado, English)_
+  - Social media relationship graph extraction and annotation with psycho-emotinal expressions, or other languages, may be cross-lingual
     - https://docs.google.com/spreadsheets/d/1yzaRVYN8I4v0rqrcUpivW-YCLgaU-aNPzTuM5XsXIgw/edit?gid=2138975815#gid=2138975815
   - Conversation-based individual and group behavioral and psychological profiling
     - https://en.wikibooks.org/wiki/Managing_Groups_and_Teams/Psychological_Profiling
