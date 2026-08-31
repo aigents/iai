@@ -158,6 +158,9 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://three.arcprize.org/
     - https://github.com/arcprize/
     - https://github.com/arcprize/ARC-AGI-2
+    - https://arxiv.org/pdf/2605.05138
+    - https://arxiv.org/abs/2607.15439
+    - https://github.com/astroseger/arc-3-agents-baseline1
 - Interpretable natural language modeling and unsupervised learning
   - Deep grammar and ontology learning for ontology extraction from natural language texts in Chinese/English/Russian
     - https://www.springerprofessional.de/en/programmatic-link-grammar-induction-for-unsupervised-language-le/17020348
