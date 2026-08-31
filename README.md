@@ -145,6 +145,14 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://github.com/tevonsb/homeassistant-mcp
     - https://www.researchgate.net/publication/311662442_Adaptive_Intelligent_Manufacturing_Control_Systems
     - https://www.youtube.com/watch?v=Bg7wAwCGtl4
+    - https://www.citylearn.net/
+    - https://github.com/citylearn-project/CityLearn
+    - https://mchancan.github.io/projects/CityLearn/
+    - https://www.climatechange.ai/papers/iclr2023/2
+    - https://arxiv.org/abs/2405.03848 
+    - https://arxiv.org/abs/2012.10504
+    - https://dl.acm.org/doi/10.1145/3360322.3360998
+    - https://keepfloyding.github.io/posts/data-explor-TEP-3/
   - ARC-AGI benchmark, which measures general intelligence through skill acquisition efficiency
     - https://arcprize.org/
     - https://three.arcprize.org/
