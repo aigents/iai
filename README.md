@@ -192,6 +192,15 @@ https://lifeboat.com/ex/bios.anton.kolonin
     - https://www.mathworks.com/help/stats/perform-text-classification-incrementally.html
     - https://www.sciencedirect.com/science/article/abs/pii/S0957417420300245
     - https://arxiv.org/abs/2104.11882
+    - Requirements
+      - Alerts to admins of a chat/group in respect to automatic or recommended bans/removals
+        - Explanation of reasons of bans/removals to chat admins, see https://arxiv.org/abs/2511.05969 and https://peerj.com/articles/cs-3699/ 
+      - Thresholds for specific chats/groups managed by their admins  
+        - Threshold for automatic action (ban/removal)
+        - Threshold for alert to manager
+      - Option for chat/group admin to pin the post for ban/removal
+      - Ability to learn from chat/group admin actions (joint model across chats/groups)
+      - Ability to inspect/amend model for bot admin (not admins of chats/groups), see https://arxiv.org/abs/2511.05969 and https://peerj.com/articles/cs-3699/
 - Social computing applications in social media and multi-agent systems
   - Reputation consensus for distributed ledger systems
     - https://arxiv.org/pdf/1806.07342.pdf
