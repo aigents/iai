@@ -32,6 +32,7 @@ https://lifeboat.com/ex/bios.anton.kolonin
 - _Neuro-symbolic architectures and experiential learning (1)_
   - https://github.com/aigents/iai/blob/main/docs/2022/towards-interpretable-neurosymbolic-agi-2022.pdf
   - https://github.com/aigents/pygents/blob/main/docs/2022/experiential-sequential-2022.pdf
+  - https://github.com/aigents/iai/blob/main/docs/2026/CAINSU_IAI.pdf
   - https://aigents.com/papers/2022/towards-interpretable-neurosymbolic-agi-2022.pdf
   - https://aigents.com/papers/2020/Towards-Interpretable-AGI-2020-en.pdf
   - Videos
